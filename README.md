@@ -1,81 +1,36 @@
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-# 👋 Hi, I'm Shaikh Rahman
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Shaikh%20Rahman&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Content%20Creator%20%7C%20Tech%20Freelancer&descAlignY=55&descSize=18"/>
 
-### 💻 Web Developer • 🎨 Content Creator • 🚀 Tech Freelancer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;I+build+%E2%80%A2+I+learn+%E2%80%A2+I+experiment+%F0%9F%9A%80;Web+Development+%7C+AI+%7C+Digital+Skills;Turning+ideas+into+digital+experiences;Always+learning.+Always+building." />
 
-<p>
-  <em>
-    Learning. Building. Improving. Repeating.
-  </em>
-</p>
+<br>
 
 <a href="https://github.com/rahman-shyk">
-  <img src="https://img.shields.io/github/followers/rahman-shyk?label=Followers&style=for-the-badge&logo=github">
+<img src="https://komarev.com/ghpvc/?username=rahman-shyk&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
 </a>
-<a href="https://github.com/rahman-shyk?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Explore-blue?style=for-the-badge&logo=github">
+
+<a href="https://github.com/rahman-shyk?tab=followers">
+<img src="https://img.shields.io/github/followers/rahman-shyk?label=FOLLOWERS&style=for-the-badge&color=203A43"/>
 </a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
-Hi! I'm **Shaikh Rahman**, a growing web developer and tech enthusiast who enjoys turning ideas into websites, experimenting with technology, and continuously improving my skills.
-
-I'm currently focused on strengthening my foundations in **HTML, CSS and JavaScript** while exploring the wider world of web development.
-
-I also have an interest in:
-
-- 🌐 Web Development
-- 🎨 Content Creation
-- 🔍 SEO
-- 📢 Brand Marketing
-- 💼 Freelancing
-- 🤖 AI & Emerging Technologies
-- 🚀 Building useful digital projects
-
-> **My goal:** Build things that are useful, learn from every project, and keep getting better.
-
----
-
-## 🛠️ My Current Tech Stack
-
-### 🌐 Web Development
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### 🔧 Tools I Use
-
-<p>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-## 📚 My Learning Journey
-
-I'm building my skills step-by-step instead of trying to learn everything at once.
+# 👨‍💻 Hey, I'm Shaikh Rahman
 
 ```text
-HTML
-  ↓
-CSS
-  ↓
-JavaScript
-  ↓
-Responsive Web Development
-  ↓
-Real Projects
-  ↓
-Better Projects
-  ↓
-Continuous Learning 🚀
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   👋 Hello, I'm Shaikh Rahman                                │
+│                                                              │
+│   💻 Web Developer                                            │
+│   🎥 Content Creator                                         │
+│   🚀 Tech Freelancer                                         │
+│                                                              │
+│   Currently learning, building & experimenting with tech.    │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
